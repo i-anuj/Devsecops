@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tic-tac-toe
-        image: hacked01/app12:94a6868b669614a7503fc22e9b627ec0fad29a16
+        image: hacked01/app12:425344c9558ca4fb4a0a820fe166f9a314ed8beb
         # Image will be automatically updated by CI/CD pipeline
         imagePullPolicy: Always
         ports:
